@@ -70,8 +70,8 @@
                         <h2><a>Каймульденов Ж.А.</a></h2>
                         <h4>Магистратура МФТИ</h4>
                         <ul>
-                            <li><a href="https://www.facebook.com/profile.php?id=100004057062017"><i class="zmdi zmdi-facebook"></i></a></li>
-                            <li><a href="https://www.instagram.com/aigerim_sherim/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -85,8 +85,8 @@
                         <h2><a>Купаров С.К.</a></h2>
                         <h4>Бакалавриат NU</h4>
                         <ul>
-                            <li><a href="https://www.facebook.com/profile.php?id=100004057062017"><i class="zmdi zmdi-facebook"></i></a></li>
-                            <li><a href="https://www.instagram.com/aigerim_sherim/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -95,8 +95,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="section-title text-center">
-                    <p>________________________________</p>
-        <p><a class="default-btn" href="teacher.html">show more</a></p>
+                  <p>________________________________</p>
+                  <p><a class="default-btn" href="?page=teacher">Полный список</a></p>
                 </div>
             </div>
         </div>
