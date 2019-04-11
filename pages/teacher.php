@@ -17,12 +17,11 @@
                         <a><img src="img/teacher/teacher1.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Бахнур Зиябеков</a></h2>
-                        <h4>Магистр Назарбаев Университета</h4>
+                        <h2><a href="?page=teacher1">Зиябеков. Б.М.</a></h2>
+                        <h4>CEO @Alpha Group LLC</h4>
                         <ul>
                             <li><a href="https://www.facebook.com/profile.php?id=100000981664722&ref=br_rs"><i class="zmdi zmdi-facebook"></i></a></li>
                             <li><a href="https://www.instagram.com/bakhnur_ziyabekov/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
-                            <li><a href="https://vk.com/bakhnur"><i class="zmdi zmdi-vk"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -30,11 +29,26 @@
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="single-teacher mb-45">
                     <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher2.jpg" alt="teacher"></a>
+                        <a><img src="img/teacher/teacher14.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Айгерим Шерим</a></h2>
-                        <h4>Магистр КазУМОиМЯ</h4>
+                        <h2><a href="?page=teacher14"> Серғазынова М.С.</a></h2>
+                        <h4>ДИРЕКТОР</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher2.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher2">Шерим А.А.</a></h2>
+                        <h4>ЗАМЕСТИТЕЛЬ ДИРЕКТОРА</h4>
                         <ul>
                             <li><a href="https://www.facebook.com/profile.php?id=100004057062017"><i class="zmdi zmdi-facebook"></i></a></li>
                             <li><a href="https://www.instagram.com/aigerim_sherim/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
@@ -45,22 +59,45 @@
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="single-teacher mb-45">
                     <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher3.png" alt="teacher"></a>
+                        <a><img src="img/teacher/teacher22.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Каймульденов Жанибек Амангельдыевич</a></h2>
-                        <h4>Бакалавриат МФТИ, Магистратура МФТИ</h4>
+                        <h2><a href="#"> Мергенова Ж.М. </a></h2>
+                        <h4>МЕНЕДЖЕР ПО МЕЖДУНАРОДНЫМ ПРОГРАММАМ</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="single-teacher mb-45">
                     <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher4.png" alt="teacher"></a>
+                        <a><img src="img/teacher/teacher33.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Купаров Самат Каирбекулы</a></h2>
-                        <h4>Бакалавриат Nazarbayev University, School of Engineering, Electrical & Electronic Engineering</h4>
+                        <h2><a href="#"> Шарапат С.Ә. </a></h2>
+                        <h4>МЕНЕДЖЕР</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher17.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher17"> Альдикенов Е.</a></h2>
+                        <h4>IELTS tutor</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -70,10 +107,12 @@
                         <a><img src="img/teacher/teacher5.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2>Gulzhaina Targynova</h2>
-                        <h4>Bachelor of Aveiro University of Portugal</h4>
-                        <h4>Bachelor of Satbayev University</h4>
-
+                        <h2> <a href="?page=teacher5"> Таргынова Г.С.</a> </h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -83,8 +122,8 @@
                         <a><img src="img/teacher/teacher6.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>SANDA ABDIGALI</a></h2>
-                        <h4>Bachelor of Kazakh Ablai Khan University of International Relations and World Languages</h4>
+                        <h2><a href="?page=teacher6">Абдигали С.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
                         <ul>
                             <li><a href="https://www.facebook.com/profile.php?id=100006644013821"><i class="zmdi zmdi-facebook"></i></a></li>
                             <li><a href="https://www.instagram.com/abdigaliyevas/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
@@ -99,12 +138,138 @@
                         <a><img src="img/teacher/teacher7.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Кудайберген Мухамеджан</a></h2>
-                        <h4>Бакалавриат Казахстанско-Британский технический университет</h4>
-                        <h4>Bachelor of University of London</h4>
+                        <h2><a href="?page=teacher7">Кудайберген М.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ МАТЕМАТИКИ</h4>
+                        <h4>ПРЕПОДАВАТЕЛЬ AP СALCULUS</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher8.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher8"> Оспанғали Ж.Е.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher9.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher9"> Чакибаева А.Б.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher10.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher10"> Сандыбаев Е.Е.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ ФИЗИКИ В ПРОГРАММЕ "ПОДГОТОВКА В ВУЗЫ РФ"</h4>
+                        <h4>ПРЕПОДАВАТЕЛЬ SAT</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher11.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher11"> Ермахан А.Қ.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher12.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher12"> Шоқпарбаева А.М.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКАа</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher13.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher13"> Сахи Амиржан</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="https://www.instagram.com/amirzhan.sakhi/?hl=ru"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher16.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher16">Мереке Ə.А.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ МАКРОЭКОНОМИКИ</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
+                    <div class="single-teacher-img">
+                        <a><img src="img/teacher/teacher18.png" alt="teacher"></a>
+                    </div>
+                    <div class="single-teacher-content text-center">
+                        <h2><a href="?page=teacher18">Тыныштықбай А.Қ.</a></h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ МАТЕМАТИКИ</h4>
+                        <ul>
+                            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+                            <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
 
         </div>
     </div>

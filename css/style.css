@@ -38,21 +38,21 @@
 /*----------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800');
 body {
-	color: #606060;
-	font-size: 14px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
+    color: #606060;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
     font-family: 'Open Sans', sans-serif;
 }
 .clear{clear:both}
 .fix {overflow: hidden}
 .block {display: block}
 img{
-    max-width: 100%;
+    max-width: 95%;
     -webkit-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s;
-	height:auto;
+    height:auto;
 }
 h1, h2, h3, h4, h5, h6 {font-weight: 700; margin: 0; padding: 0}
 a{
@@ -108,8 +108,7 @@ label {
 }
 .mark, mark {
     background: #4fc1f0 none repeat scroll 0 0;
-    color: #ffffff;
-}	font-weight: 600;
+    color: #ffffff;font-weight: 600;
 }
 .f-left {float: left}
 .f-right {float: right}
@@ -120,9 +119,9 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 ul{
-	list-style: outside none none;
-	margin: 0;
-	padding: 0
+    list-style: outside none none;
+    margin: 0;
+    padding: 0
 }
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
     color: #969696;
@@ -164,10 +163,10 @@ textarea {
     transition: all 0.5s ease-out 0s;
 }
 .banner-area {
-  background: rgba(0, 0, 0, 0) url("../img/banner/banner.jpg") no-repeat scroll center center / cover ;
-  position: relative;
-  width: 100%;
-  z-index: 1;
+    background: rgba(0, 0, 0, 0) url("../img/banner/banner1.jpg") no-repeat scroll center center / cover ;
+    position: relative;
+    width: 100%;
+    z-index: 1;
 }
 .banner-content {
     padding: 132px 0 134px;
@@ -182,8 +181,8 @@ textarea {
     position: relative;
 }
 .banner-breadcrumb ul li {
-  display: inline-block;
-  padding: 30px 0;
+    display: inline-block;
+    padding: 30px 0;
 }
 .banner-breadcrumb ul li a, .banner-breadcrumb ul li{
     font-size: 14px;
@@ -532,7 +531,7 @@ textarea {
 .logo a {display: inline-block}
 .logo{
     padding: 60px 0 23px;
-/*    width: 60%;*/
+    /*    width: 60%;*/
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
@@ -567,10 +566,10 @@ textarea {
     background: transparent none repeat scroll 0 0;
 }
 .fixed {
-  left: 0;
-  position: absolute;
-  width: 100%;
-  z-index: 99;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
 }
 .main-menu{display: inline-block}
 .main-menu ul li {
@@ -728,7 +727,7 @@ textarea {
 }
 .header-sticky.sticky.two{
     background: rgba(255, 255, 255, 0.8);
-		height: 60px;
+    height: 60px;
 }
 .sticky .main-menu > nav > ul > li > a {
     line-height: 69px;
@@ -812,7 +811,7 @@ textarea {
     height: 40px;
     padding: 0;
     width: 40px;
-	margin-bottom:30px;
+    margin-bottom:30px;
 }
 .mobile-menu-area .menu-close:hover {
     color: #433a8b;
@@ -883,16 +882,16 @@ textarea {
 #search-form > input::-moz-placeholder {color: #252525;}
 #search-form > input::-webkit-input-placeholder {color: #252525;}
 #search-form > button {
-  background: #2C2B5E none repeat scroll 0 0;
-  border: 2px solid #c5c596;
-  color: #ffffff;
-  font-size: 15px;
-  height: 100%;
-  padding: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 43px;
+    background: #2C2B5E none repeat scroll 0 0;
+    border: 2px solid #c5c596;
+    color: #ffffff;
+    font-size: 15px;
+    height: 100%;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 43px;
 }
 #search-form > button:hover{
     background: #EC1C23;
@@ -948,14 +947,14 @@ textarea {
 }
 .header-top-right{position: relative}
 .header-top-right::after {
-  background: #2c2b5e none repeat scroll 0 0;
-  content: "";
-  height: 100px;
-  left: -16%;
-  position: absolute;
-  top: -38px;
-  transform: rotate(-45deg);
-  width: 60px;
+    background: #2c2b5e none repeat scroll 0 0;
+    content: "";
+    height: 100px;
+    left: -16%;
+    position: absolute;
+    top: -38px;
+    transform: rotate(-45deg);
+    width: 60px;
 }
 .header-top-right ul li{
     display: inline-block;
@@ -1028,23 +1027,23 @@ textarea {
     padding-top: 80px;
     text-transform: capitalize;
     -webkit-animation-delay: 0.7s;
-            animation-delay: 0.7s;
+    animation-delay: 0.7s;
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
     -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
+    animation-fill-mode: both;
     -webkit-animation-name: fadeOutDown;
-            animation-name: fadeOutDown;
+    animation-name: fadeOutDown;
 }
 .slider-img{
     -webkit-animation-delay: 0.2s;
-            animation-delay: 0.2s;
+    animation-delay: 0.2s;
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
     -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
+    animation-fill-mode: both;
     -webkit-animation-name: fadeInRight;
-            animation-name: fadeInRight;
+    animation-name: fadeInRight;
 }
 .slide-content h2 {
     color: #fff;
@@ -1054,13 +1053,13 @@ textarea {
     line-height: 64px;
     text-transform: capitalize;
     -webkit-animation-delay: 1.5s;
-            animation-delay: 1.5s;
+    animation-delay: 1.5s;
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
     -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
+    animation-fill-mode: both;
     -webkit-animation-name: fadeOutDown;
-            animation-name: fadeOutDown;
+    animation-name: fadeOutDown;
 }
 .slider-area.two .slide-content h2 {
     line-height: 82px;
@@ -1076,31 +1075,31 @@ textarea {
     font-weight: 400;
     margin-bottom: 35px;
     -webkit-animation-delay: 0.8s;
-            animation-delay: 0.8s;
+    animation-delay: 0.8s;
     -webkit-animation-duration: 1s;
-            animation-duration: 1s;
+    animation-duration: 1s;
     -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
+    animation-fill-mode: both;
     -webkit-animation-name: fadeOutDown;
-            animation-name: fadeOutDown;
+    animation-name: fadeOutDown;
 }
 .slider-area .default-btn{
     -webkit-animation-delay: 1.4s;
-            animation-delay: 1.4s;
+    animation-delay: 1.4s;
     -webkit-animation-duration: .8s;
-            animation-duration: .8s;
+    animation-duration: .8s;
     -webkit-animation-fill-mode: both;
-            animation-fill-mode: both;
+    animation-fill-mode: both;
     -webkit-animation-name: fadeOutDown;
     animation-name: fadeOutDown;
 }
 .slider-area .owl-item.active .slide-content h2, .slider-area .owl-item.active .slide-content h3, .slider-area .owl-item.active .slide-content p,  .slider-area .owl-item.active .default-btn{
     -webkit-animation-name: fadeInUp;
-            animation-name: fadeInUp;
+    animation-name: fadeInUp;
 }
 .slider-area .owl-item.active .default-btn{
     -webkit-animation-name: fadeInUp;
-            animation-name: fadeInUp;
+    animation-name: fadeInUp;
 }
 .slider-area .owl-item.active .slider-img img{
     animation-delay: 0.2s;
@@ -1109,14 +1108,14 @@ textarea {
     animation-name: fadeInRight;
 }
 .owl-item.active .slider-img {
-  animation-delay: 0.2s;
-  animation-duration: 1s;
-  animation-fill-mode: both;
-  animation-name: fadeInRight;
+    animation-delay: 0.2s;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    animation-name: fadeInRight;
 }
 .single-banner .slide-content h2, .single-banner .slide-content h3, .single-banner .slide-content p, .single-banner .banner-btn{
     -webkit-animation-name: fadeInUp;
-            animation-name: fadeInUp;
+    animation-name: fadeInUp;
 }
 .slider-area .owl-item.active .slide-content h3 {-webkit-animation-delay: 500ms;animation-delay: 500ms}
 .slider-area .owl-item.active .slide-content h2 {-webkit-animation-delay: 750ms;animation-delay: 750ms}
@@ -1156,7 +1155,7 @@ textarea {
 .slider-area div{height: 100%}
 .fix{overflow: hidden}
 .slider-area .owl-nav div{
-  height: auto;
+    height: auto;
 }
 .owl-carousel .owl-item .slider-img > img {
     bottom: 0;
@@ -1228,7 +1227,7 @@ textarea {
     color: #EC1C23;
 }
 .notice-video {
-    background: rgba(0, 0, 0, 0) url("../img/notice/video.jpg") repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) url("../img/logo/logo.png") repeat scroll 0 0;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1244,13 +1243,13 @@ textarea {
     z-index: 1;
 }
 .notice-video::after {
-  /* background: rgba(44, 43, 94, 0.90); */
-  content: "";
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
+    /* background: rgba(44, 43, 94, 0.90); */
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 .notice-area.two .notice-left {
     padding: 33px 58px 31px;
@@ -1384,7 +1383,7 @@ textarea {
     top: 50%;
     content: "";
     opacity: 0;
-    transform: translate(-50% -50%)
+    transform: translate(-50% -50%);
     margin: auto;
     z-index: 1;
     -webkit-transition: all 0.5s ease 0s;
@@ -1866,7 +1865,7 @@ textarea {
     transition: all 0.5s ease 0s;
 }
 .blog-img img {
-  width: 100%;
+    width: 100%;
 }
 /*
 .blog-hover {
@@ -2215,46 +2214,46 @@ textarea {
 #scrollUp:hover {
 }
 @keyframes scroll-top {
-0% {
-    bottom: 0;
-    opacity: 0;
-}
-50% {
-    bottom: 50%;
-    opacity: 1;
-}
-100% {
-    bottom: 75%;
-    opacity: 0;
-}
-}
-@keyframes scroll-top {
-0% {
-    bottom: 0;
-    opacity: 0;
-}
-50% {
-    bottom: 50%;
-    opacity: 1;
-}
-100% {
-    bottom: 75%;
-    opacity: 0;
-}
+    0% {
+        bottom: 0;
+        opacity: 0;
+    }
+    50% {
+        bottom: 50%;
+        opacity: 1;
+    }
+    100% {
+        bottom: 75%;
+        opacity: 0;
+    }
 }
 @keyframes scroll-top {
-0% {
-    bottom: 0;
-    opacity: 0;
+    0% {
+        bottom: 0;
+        opacity: 0;
+    }
+    50% {
+        bottom: 50%;
+        opacity: 1;
+    }
+    100% {
+        bottom: 75%;
+        opacity: 0;
+    }
 }
-50% {
-    bottom: 50%;
-    opacity: 1;
-}
-100% {
-    bottom: 75%;
-    opacity: 0;
-}
+@keyframes scroll-top {
+    0% {
+        bottom: 0;
+        opacity: 0;
+    }
+    50% {
+        bottom: 50%;
+        opacity: 1;
+    }
+    100% {
+        bottom: 75%;
+        opacity: 0;
+    }
 }
 #scrollUp:hover i {
     animation: 800ms linear 0s normal none infinite running scroll-top;
@@ -2279,7 +2278,7 @@ textarea {
     padding-top: 117px;
 }
 .footer-area.three .main-footer {
-  padding-bottom: 50px;
+    padding-bottom: 50px;
 }
 .footer-area.two .main-footer{padding-top: 85px; padding-bottom: 60px}
 .single-widget h3{
@@ -2371,7 +2370,7 @@ textarea {
     margin-bottom: 0;
 }
 .footer-area.three .footer-bottom.two .footer-social ul  {
-  padding: 15px 0 15px;
+    padding: 15px 0 15px;
 }
 .footer-bottom p a{
     color: #fff;
@@ -2494,7 +2493,7 @@ textarea {
     bottom: -5px;
     width: 100%;
     content: "";
-    height: 88%;
+    height: 100%;
     z-index: -1;
 }
 /*----------------------------------------*/
@@ -2743,21 +2742,21 @@ textarea {
     margin-right: 65px;
 }
 .contact-icon {
-  border: 1px solid #e3e3e3;
-  border-radius: 50%;
-  height: 50px;
-  margin: auto auto 20px;
-  position: relative;
-  text-align: center;
-  width: 50px;
+    border: 1px solid #e3e3e3;
+    border-radius: 50%;
+    height: 50px;
+    margin: auto auto 20px;
+    position: relative;
+    text-align: center;
+    width: 50px;
 }
 .contact-icon img {
-  bottom: 0;
-  margin: auto;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 .contact-add h3{
     font-size: 18px;
@@ -2778,10 +2777,10 @@ textarea {
   17. Login CSS
 -------------------------*/
 .login-form-container {
-  background: #f5f5f5 none repeat scroll 0 0;
-  overflow: hidden;
-  padding: 37px 40px;
-  text-align: left;
+    background: #f5f5f5 none repeat scroll 0 0;
+    overflow: hidden;
+    padding: 37px 40px;
+    text-align: left;
 }
 .login-text {
     text-align: center;

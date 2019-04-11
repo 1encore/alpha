@@ -1,13 +1,4 @@
 <!-- Contact Start -->
-<div class="map-area">
-    <!-- google-map-area start -->
-    <div class="google-map-area">
-        <!--  Map Section -->
-        <div id="contacts" class="map-area">
-            <div id="googleMap" style="width:100%;height:440px;"></div>
-        </div>
-    </div>
-</div>
 <div class="contact-area pt-1502 pb-140" id="call">
     <div class="container">
         <div class="row">
@@ -38,7 +29,7 @@
                             <img src="img/contact/contact3.png" alt="contact">
                         </div>
                         <div class="contact-add">
-                            <h3>+7 747 295 2239</h3>
+                            <h3>+7 702 980 0102</h3>
                             <p>ул. Б. Майлина 11</p>
                             <p>г. Астана, Казахстан</p>
                         </div>
@@ -66,8 +57,8 @@
                                 <textarea name="message" id="message" cols="15" rows="10"></textarea>
                             </div>
                         </div>
-                        <a class="reply-btn" href="#" data-text="send"><span>send message</span></a>
-                        <p class="form-messege"></p>
+                        <input class="reply-btn" type="submit" value="send message">
+
                     </form>
                 </div>
             </div>
@@ -105,3 +96,34 @@
     </div>
 </div>
 <!-- Subscribe End -->
+
+<!--Yandex Map-->
+<div class="about-area">
+    <div id="map" style="width:100%;height:440px;"></div>
+</div>
+<!--Yandex Map-->
+
+<script>
+    ymaps.ready(function () {
+        var myMap = new ymaps.Map('map', {
+                center: [43.2314, 76.9076],
+                zoom: 14
+            }, {
+                searchControlProvider: 'yandex#search'
+            })
+
+        myMap.geoObjects
+            .add(new ymaps.Placemark([43.2400, 76.9339], {
+                balloonContent: '"Alpha Academy" - академия образования,  <br> Сейфулина 597, <br> 6 этаж, 601 офмс'
+            }, {
+                preset: 'islands#icon',
+                iconColor: '#0095b6'
+            }))
+            .add(new ymaps.Placemark([43.2180, 76.8757], {
+                balloonContent: '"Alpha Academy" - академия образования,  <br> Жандосова 51, <br> 6 этаж, 635 офис'
+            }, {
+                preset: 'islands#icon',
+                iconColor: '#0095b6'
+            }))
+    });
+</script>

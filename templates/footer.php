@@ -5,7 +5,7 @@
                 <div class="col-md-4 col-sm-6 col-xs-12">
                     <div class="single-widget pr-60">
                         <div class="footer-logo pb-25">
-                            <a href="index.html"><img src="img/logo/footer-logo.png" alt="eduhome"></a>
+                            <a href="?page=main"><img src="img/logo/footer-logo.png" alt="eduhome"></a>
                         </div>
                         <p>Это команда энергичных, молодых и креативных людей нацеленных на развитие молодежи Республики Казахстан в современном обществе</p>
                         <div class="footer-social">
@@ -23,7 +23,8 @@
                             <li><a href="?page=main">Главная</a></li>
                             <li><a href="?page=teacher">Команда</a></li>
                             <li><a href="?page=course">Курсы</a></li>
-                            <li><a href="?page=event">Мероприятии</a></li>
+                            <li><a href="?page=event">Мероприятия</a></li>
+                            <li><a href="?page=rfalphastudy">Поступление в вузы РФ</a></li>
                         </ul>
                     </div>
                 </div>

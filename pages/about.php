@@ -1,5 +1,5 @@
 <!-- About Start -->
-<div class="about-area pt-145 pb-155">
+<div class="about-area pt-145 pb-70">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-sm-6">
@@ -20,7 +20,7 @@
 </div>
 <!-- About End -->
 <!-- Teacher Start -->
-<div class="teacher-area pb-150">
+<div class="teacher-area pb-100">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
@@ -48,11 +48,11 @@
             </div>
             <div class="col-md-3 col-sm-4 col-xs-12">
                 <div class="single-teacher">
-                    <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher2.jpg" alt="teacher"></a>
+                    <div class="single-teacher-img" >
+                        <a><img src="img/teacher/teacher2.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Шерим А.А.</a></h2>
+                        <h2><a href="?page=teacher2">Шерим А.А.</a></h2>
                         <h4>Магистр КазУМОиМЯ</h4>
                         <ul>
                             <li><a href="https://www.facebook.com/profile.php?id=100004057062017"><i class="zmdi zmdi-facebook"></i></a></li>
@@ -62,13 +62,13 @@
                 </div>
             </div>
             <div class="col-md-3 col-sm-4 col-xs-12">
-                <div class="single-teacher">
+                <div class="single-teacher mb-45">
                     <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher3.png" alt="teacher"></a>
+                        <a><img src="img/teacher/teacher5.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Каймульденов Ж.А.</a></h2>
-                        <h4>Магистратура МФТИ</h4>
+                        <h2> <a href="?page=teacher5"> Таргынова Г.С.</a> </h2>
+                        <h4>ПРЕПОДАВАТЕЛЬ АНГЛИЙСКОГО ЯЗЫКА</h4>
                         <ul>
                             <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                             <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
@@ -76,14 +76,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-3 hidden-sm col-xs-12">
-                <div class="single-teacher">
+            <div class="col-md-3 col-sm-4 col-xs-12">
+                <div class="single-teacher mb-45">
                     <div class="single-teacher-img">
-                        <a><img src="img/teacher/teacher4.png" alt="teacher"></a>
+                        <a><img src="img/teacher/teacher17.png" alt="teacher"></a>
                     </div>
                     <div class="single-teacher-content text-center">
-                        <h2><a>Купаров С.К.</a></h2>
-                        <h4>Бакалавриат NU</h4>
+                        <h2><a href="?page=teacher17"> Альдикенов Е.</a></h2>
+                        <h4>IELTS tutor</h4>
                         <ul>
                             <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
                             <li><a href="#"><i class="zmdi zmdi-instagram"></i></a></li>
@@ -95,8 +95,8 @@
         <div class="row">
             <div class="col-xs-12">
                 <div class="section-title text-center">
-                  <p>________________________________</p>
-                  <p><a class="default-btn" href="?page=teacher">Полный список</a></p>
+                    <p>________________________________</p>
+                    <p><a class="default-btn" href="?page=teacher">Полный список</a></p>
                 </div>
             </div>
         </div>
@@ -148,8 +148,56 @@
             </div>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="notice-left-wrapper">
-                    <h3>notice board</h3>
+                    <h3>Новости</h3>
                     <div class="notice-left">
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>1, April 2019</h4>
+                            <p>Акция на праздники Наурыз продолжается, полный курс за 29.000 тенге 36 Академ часов</p>
+                            <p>Первый урок бесплатно</p>
+                            <p>Подробнее: <a href="tel: +7 747 777 86 64">+7 747 777 86 64</a></p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>17, Март 2019</h4>
+                            <p>Набираем группу Beginner и Elementary</p>
+                            <p>29.000 теңге за 3 месяца</p>
+                            <p>2 раза в неделю по 90 минут</p>
+                            <p>Кроме того Movie club/Speaking club</p>
+                            <p>Подробнее: <a href="tel: +7 747 777 86 64">+7 747 777 86 64</a></p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>3, Март 2019</h4>
+                            <p>Барлықтарыңыздан сүйінші, "Тілдер саябағы" жобасының 3-ші маусымы биыл да өтетін болады. 😍👏🏻👏🏻</p>
+                            <p>Толық ақпарат: <a href="tel: +7 702 980 01 02">+7 702 980 01 02</a></p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>1, Март 2019</h4>
+                            <p>Alpha Academy ұсынады: </p>
+                            <p><a href="https://www.instagram.com/almatyblc/">@almatyblc</a></p>
+                            <p>♔ Business Leadership Club</p>
+                            <p>🏦Клуб Будущих Предпринимателей</p>
+                            <p>💰Масштабная бизнес-экосистема,</p>
+                            <p>которая изменит вашу жизнь!</p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>1, Март 2019</h4>
+                            <p>Alpha Academy ұсынады: </p>
+                            <p><a href="https://www.instagram.com/qazaq_sda/">@qazaq_sda</a></p>
+                            <p>Qazaqstani Speech and Debate Association</p>
+                            <p>for high school students</p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>1, Март 2019</h4>
+                            <p>Alpha Academy ұсынады: </p>
+                            <p><a href="https://www.instagram.com/qonaq_club/">@qonaq_club</a></p>
+                            <p>Touristic club QonaQ</p>
+                            <p>Travel, research, discover and just have fun</p>
+                        </div>
+                        <div class="single-notice-left mb-25 pb-25">
+                            <h4>1, Март 2019</h4>
+                            <p>Alpha Academy ұсынады: </p>
+                            <p><a href="https://www.instagram.com/izars_/">@izars</a></p>
+                            <p>Қытайдан келген қазақ окушыларына көмек керек көрсету</p>
+                        </div>
                         <div class="single-notice-left mb-25 pb-25">
                             <h4>3, November 2018</h4>
                             <p>🍋Участвуй в турнире Alpha Cybersport Tournament среди школьников 9-11 классов с призовым фондом 5 000 000 тенге. Регистрация: 📱8747 777 86 64</p>
