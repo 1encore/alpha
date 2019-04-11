@@ -20,6 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // FIXME: Update this to your desired email address.
 //    $recipient = "admin@alpha-academy.org";
     $recipient = "hg1zadr@gmail.com";
+
     // Set the email subject.
     // $subject = "New contact";
 
